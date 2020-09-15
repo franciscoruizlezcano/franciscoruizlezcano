@@ -1,13 +1,14 @@
-# Hi there 👋
+### Hi there 👋, my name is Francisco
 - ☕ I'm a Java developer from birth and passionate about data persistence.
 - 🎓 Professional and personal computer technician
-- 🌱 I’m currently learning software architecture and data science
 - ⏭️🧑‍🎓 Bachelor of Systems
+- 🌱 I’m currently learning clean code, SOLID principles, software architecture & clean architecture
+- 🔭 I’m currently working on [@DivInf ](http://divisioninformatica.com.ar "@DivInf ")
 
 
-## 📫 You can contact me
+#### 📫 You can contact me
 - 📨 [Mail](mailto:franciscoruizlezcano@gmail.com "Mail")
 - 🌎 [Website](https://franncode.web.app/ "Website")
 - 💼 [LinkedIn](https://www.linkedin.com/in/franciscoruizlezcano/ "LinkedIn")
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoruizlezcano&show_icons=true)  
