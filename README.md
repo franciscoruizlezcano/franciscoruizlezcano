@@ -8,7 +8,7 @@
 
 #### 📫 You can contact me
 - 📨 [Mail](mailto:franciscoruizlezcano@gmail.com "Mail")
-- 🌎 [Website](https://franncode.web.app/ "Website")
+- 🌎 [Website](https://franciscoruia.ar/ "Website")
 - 💼 [LinkedIn](https://www.linkedin.com/in/franciscoruizlezcano/ "LinkedIn")
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoruizar&show_icons=true)  
