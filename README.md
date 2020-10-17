@@ -11,4 +11,4 @@
 - 🌎 [Website](https://franncode.web.app/ "Website")
 - 💼 [LinkedIn](https://www.linkedin.com/in/franciscoruizlezcano/ "LinkedIn")
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoruizlezcano&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoruizar&show_icons=true)  
