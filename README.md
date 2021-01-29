@@ -3,7 +3,7 @@
 - 🎓 Professional and personal computer technician
 - ⏭️🧑‍🎓 Bachelor of Systems
 - 🌱 I’m currently learning clean code, SOLID principles, software architecture & clean architecture
-- 🔭 I’m currently working on [@DivInf ](http://divinf.com.ar "@DivInf ")
+- 🔭 I’m currently working on [@TGV ](http://tgv.com.ar "@TGV "), and also i worked on [@DivInf ](http://divisioninformatica.com.ar "@DivInf "),
 
 
 #### 📫 You can contact me
